@@ -1,7 +1,7 @@
 {
   "new_version": "yes",
   "upgrade_url": "https://www.youtube.com/@SoftLabsAI",
-  "kill": "yes",
+  "kill": "no",
   "videos": [
     {
       "title": "Bitwarden Complete Beginner's Guide | Full Tutorial",
